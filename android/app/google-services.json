@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026616756177",
+    "project_id": "klontong-76eb1",
+    "storage_bucket": "klontong-76eb1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026616756177:android:0a0869d413465537c702f0",
+        "android_client_info": {
+          "package_name": "com.example.klontong"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQOMwPXOmjMubId9mdttakQh2qXkFIbPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
